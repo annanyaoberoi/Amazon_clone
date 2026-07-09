@@ -18,7 +18,7 @@ This project focuses on replicating the UI design and layout of a modern e-comme
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – Structure  
+- **HTML5** – Structure & Form Components  
 - **CSS3** – Styling & layout  
 
 ---
